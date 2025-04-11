@@ -56,6 +56,12 @@
       "languageVersion": "3.4"
     },
     {
+      "name": "cli_config",
+      "rootUri": "file:///C:/Users/vikto/AppData/Local/Pub/Cache/hosted/pub.dev/cli_config-0.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
       "name": "clock",
       "rootUri": "file:///C:/Users/vikto/AppData/Local/Pub/Cache/hosted/pub.dev/clock-1.1.2",
       "packageUri": "lib/",
@@ -75,7 +81,7 @@
     },
     {
       "name": "coverage",
-      "rootUri": "file:///C:/Users/vikto/AppData/Local/Pub/Cache/hosted/pub.dev/coverage-1.11.1",
+      "rootUri": "file:///C:/Users/vikto/AppData/Local/Pub/Cache/hosted/pub.dev/coverage-1.12.0",
       "packageUri": "lib/",
       "languageVersion": "3.4"
     },
@@ -255,7 +261,7 @@
     },
     {
       "name": "provider",
-      "rootUri": "file:///C:/Users/vikto/AppData/Local/Pub/Cache/hosted/pub.dev/provider-6.1.2",
+      "rootUri": "file:///C:/Users/vikto/AppData/Local/Pub/Cache/hosted/pub.dev/provider-6.1.4",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -422,7 +428,7 @@
       "languageVersion": "3.6"
     }
   ],
-  "generated": "2025-03-24T22:13:04.047792Z",
+  "generated": "2025-04-11T12:09:07.623370Z",
   "generator": "pub",
   "generatorVersion": "3.7.2",
   "flutterRoot": "file:///C:/Program%20Files/flutter/flutter",

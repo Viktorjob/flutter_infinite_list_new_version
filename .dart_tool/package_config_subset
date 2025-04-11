@@ -46,6 +46,10 @@ characters
 3.4
 file:///C:/Users/vikto/AppData/Local/Pub/Cache/hosted/pub.dev/characters-1.4.0/
 file:///C:/Users/vikto/AppData/Local/Pub/Cache/hosted/pub.dev/characters-1.4.0/lib/
+cli_config
+3.0
+file:///C:/Users/vikto/AppData/Local/Pub/Cache/hosted/pub.dev/cli_config-0.2.0/
+file:///C:/Users/vikto/AppData/Local/Pub/Cache/hosted/pub.dev/cli_config-0.2.0/lib/
 clock
 3.4
 file:///C:/Users/vikto/AppData/Local/Pub/Cache/hosted/pub.dev/clock-1.1.2/
@@ -60,8 +64,8 @@ file:///C:/Users/vikto/AppData/Local/Pub/Cache/hosted/pub.dev/convert-3.1.2/
 file:///C:/Users/vikto/AppData/Local/Pub/Cache/hosted/pub.dev/convert-3.1.2/lib/
 coverage
 3.4
-file:///C:/Users/vikto/AppData/Local/Pub/Cache/hosted/pub.dev/coverage-1.11.1/
-file:///C:/Users/vikto/AppData/Local/Pub/Cache/hosted/pub.dev/coverage-1.11.1/lib/
+file:///C:/Users/vikto/AppData/Local/Pub/Cache/hosted/pub.dev/coverage-1.12.0/
+file:///C:/Users/vikto/AppData/Local/Pub/Cache/hosted/pub.dev/coverage-1.12.0/lib/
 crypto
 3.4
 file:///C:/Users/vikto/AppData/Local/Pub/Cache/hosted/pub.dev/crypto-3.0.6/
@@ -172,8 +176,8 @@ file:///C:/Users/vikto/AppData/Local/Pub/Cache/hosted/pub.dev/pool-1.5.1/
 file:///C:/Users/vikto/AppData/Local/Pub/Cache/hosted/pub.dev/pool-1.5.1/lib/
 provider
 2.12
-file:///C:/Users/vikto/AppData/Local/Pub/Cache/hosted/pub.dev/provider-6.1.2/
-file:///C:/Users/vikto/AppData/Local/Pub/Cache/hosted/pub.dev/provider-6.1.2/lib/
+file:///C:/Users/vikto/AppData/Local/Pub/Cache/hosted/pub.dev/provider-6.1.4/
+file:///C:/Users/vikto/AppData/Local/Pub/Cache/hosted/pub.dev/provider-6.1.4/lib/
 pub_semver
 3.4
 file:///C:/Users/vikto/AppData/Local/Pub/Cache/hosted/pub.dev/pub_semver-2.2.0/
